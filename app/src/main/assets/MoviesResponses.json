@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "filmid": "m1",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "title": "The White Tiger",
+      "year": "2021",
+      "genre": "Crime, Drama",
+      "duration": "2h 5min",
+      "imdbRating": "7.2",
+      "plot": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+      "actor": "Adarsh Gourav, Rajkummar Rao, PriyankChopra",
+      "director": "Ramin Bahrani",
+      "writer": "Ramin Bahrani, Aravind Adiga",
+      "releaseDate": "22 January 2021"
+    },
+    {
+      "filmid": "m2",
+      "posterImg":"https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_.jpg",
+      "title":"Soul",
+      "year":"2020",
+      "genre": "Animation, Adventure, Comedy",
+      "duration":"1h 40min",
+      "imdbRating": "8.1",
+      "plot": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife. .",
+      "actor":"Jamie Foxx, Tina Fey, Graham Norton",
+      "director":"Pete Docter, Kemp Powers",
+      "writer":"Pete Docter, Mike Jones",
+      "releaseDate":"25 December 2020"
+    },
+    {
+      "filmid":"m3",
+      "posterImg":"https://m.media-amazon.com/images/M/MV5BYTlhNzJjYzYtNGU3My00ZDI5LTgzZDUtYzllYjU1ZmU0YTgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "title":"Wonder Woman 1984",
+     "year": "2020",
+      "genre":"Action, Adventure, Fantasy",
+      "duration":"2h 31min",
+      "imdbRating": "5.4",
+     "plot": "Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing. ",
+      "actor":"Gal Gadot, Chris Pine, Kristen Wiig",
+      "director":"Patty Jenkins",
+     "writer": "Patty Jenkins, Geoff Johns",
+     "releaseDate": "25 December 2020"
+    },
+    {
+      "filmid":"m4",
+     "posterImg": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "title":"The Lighthouse",
+      "year":"2020",
+      "genre":"Drama, Fantasy, Horror",
+      "duration":"1h 49min",
+      "imdbRating": "7.2",
+      "plot":"Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "actor":"Robert Pattinson, Willem Dafoe, Valeriia Karaman",
+      "director":"Robert Eggers",
+      "writer":"Robert Eggers, Max Eggers",
+      "releaseDate":"1 November 2019"
+    },
+    {
+      "filmid":"m5",
+      "posterImg":"https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "title":"Tenet",
+      "year":"2020",
+      "genre":"Action, Sci-Fi, Thriller",
+      "duration":"2h 30min",
+      "imdbRating": "7.5",
+      "plot":"Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+      "actor":"John David Washington, Robert Pattinson, Elizabeth Debicki",
+      "director":"Christopher Nolan",
+      "writer":"Christopher Nolan",
+      "releaseDate":"3 September 2020"
+    }
+  ]
+}

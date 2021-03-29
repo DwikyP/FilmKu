@@ -1,0 +1,74 @@
+{
+  "tvshows": [
+    {
+      "filmid": "tv1",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_.jpg",
+      "title": "Attack on Titan",
+      "year": "2013-",
+      "genre": "Animation, Action, Adventure",
+      "duration": "24min",
+      "imdbRating": "8.9",
+      "plot": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+      "actor": "Yûki Kaji, Marina Inoue, Yui Ishikawa",
+      "creater": "Hajime Isayama",
+      "status": "ONGOING",
+      "totalEpisodes": 79
+    },
+    {
+      "filmid": "tv2",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BNGEyOGJiNWEtMTgwMi00ODU4LTlkMjItZWI4NjFmMzgxZGY2XkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg",
+      "title": "The Boys",
+      "year": "2019-",
+      "genre": "Action, Comedy, Crime",
+      "duration": "1h",
+      "imdbRating": "8.7",
+      "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+      "actor": "Karl Urban, Jack Quaid, Antony Starr",
+      "creater": "Eric Kripke",
+      "status": "ONGOING",
+      "totalEpisodes": 19
+    },
+    {
+      "filmid": "tv3",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
+      "title": "Stranger Things",
+      "year": "2016-",
+      "genre": "Drama, Fantasy, Horror",
+      "duration": "51min",
+      "imdbRating": "8.7",
+      "plot": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+      "actor": "Millie Bobby Brown, Finn Wolfhard, Winona Ryder",
+      "creater": "Matt Duffer, Ross Duffer",
+      "status": "ONGOING",
+      "totalEpisodes": 34
+    },
+    {
+      "filmid": "tv4",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_.jpg",
+      "title": "Daredevil",
+      "year": "2015-2018",
+      "genre": "Action, Crime, Drama",
+      "duration": "54min",
+      "imdbRating": "8.6",
+      "plot": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+      "actor": "Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll",
+      "creater": "Drew Goddard",
+      "status": "COMPLETED",
+      "totalEpisodes": 39
+    },
+    {
+      "filmid": "tv5",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BYjJiZmE5ZDgtYWUxZi00MWI1LTg2MmEtZmUwZGE2YzRkNTE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "title": "WandaVision",
+      "year": "2021",
+      "genre": "Action, Comedy, Drama",
+      "duration": "29-41min",
+      "imdbRating": "8.0",
+      "plot": "Blends the style of classic sitcoms with the MCU in which Wanda Maximoff and Vision -two super-powered beings living their ideal suburban lives-begin to suspect that everything is not as it seems.",
+      "actor": "Elizabeth Olsen, Paul Bettany, Teyonah Parris",
+      "creater": "Jac Schaeffer",
+      "status": "ONGOING",
+     "totalEpisodes": 9
+    }
+  ]
+}

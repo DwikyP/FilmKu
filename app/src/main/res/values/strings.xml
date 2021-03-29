@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FilmKu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="_2019">2019</string>
+    <string name="movie_plot">An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.</string>
+    <string name="ongoing">ONGOING</string>
+    <string name="tv_show_title">Tv Show Title</string>
+    <string name="_2013">2013 -</string>
+    <string name="tv_show_plot">After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.</string>
+    <string name="_69_episodes">69 Episodes</string>
+    <string name="film_detail">Film Detail</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="film_title">Film Title</string>
+    <string name="genre">Genre</string>
+    <string name="drama_crime">Drama, Crime</string>
+    <string name="release_date">Release Date</string>
+    <string name="_12_january_2021">12 January 2021</string>
+    <string name="runtime">Runtime</string>
+    <string name="_2h_5min">2h 5min</string>
+    <string name="imdb_rating">IMDB Rating</string>
+    <string name="_7_2_10">7.2/10</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="director">Director</string>
+    <string name="ramin_bahrani">Ramin Bahrani</string>
+    <string name="writers">Writers</string>
+    <string name="ramin_bahrani_aravind_adiga">Ramin Bahrani, Aravind Adiga</string>
+    <string name="stars">Stars</string>
+    <string name="adarsh_gourav_rajkummar_rao_priyanka_chopra">Adarsh Gourav, Rajkummar Rao, Priyanka Chopra</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="tv_show_poster">TV Show Poster</string>
+    <string name="episodes">Episodes</string>
+    <string name="_24min">24min</string>
+    <string name="creator">Creator</string>
+    <string name="status">Status</string>
+    <string name="favorite">Favorite</string>
+</resources>
